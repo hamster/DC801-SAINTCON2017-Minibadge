@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name minibadge_kicad)(type KiCad)(uri C:/Users/hamster/Documents/Development/dc801/minibadge/KiCAD/minibadge_kicad.pretty)(options "")(descr ""))
+  (lib (name DC801-Minibadge)(type KiCad)(uri "$(KIPRJMOD)/DC801-Minibadge.pretty")(options "")(descr ""))
+)
