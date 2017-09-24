@@ -39,6 +39,7 @@ The Minibadge can be used in two ways:
 # BOM
 
 Prices/sourcing as of 10/2017
+Part prices do not include shipping costs - typical was about another $0.30 per unit
 
 Item | Part Number | Sourcing | Cost Each (100 unit pricing)
 -----|-------------|----------|-----------------------------
