@@ -35,6 +35,25 @@ The Minibadge can be used in two ways:
 1) Follow above, but don’t use the pin headers
 2) Solder included button pin to large pad at top
 
+
+# BOM
+
+Prices/sourcing as of 10/2017
+
+Item | Part Number | Sourcing | Cost Each (100 unit pricing)
+-----|-------------|----------|-----------------------------
+PCB | | ![seeed](https://www.seeedstudio.com/fusion_pcb.html) | $0.334
+D1,2 | Chanzon AA0018x100 3mm LED | ![Amazon](https://www.amazon.com/gp/product/B01C19ENH8) | $0.075
+R1 | Yageo RC1206JR-070RL 0 Ohm | ![Mouser](http://www.mouser.com/Search/ProductDetail.aspx?R=RC1206JR-070RL) | $0.006
+R1 | Yageo RC1206FR-07470RL 470 Ohm | ![Mouser](http://www.mouser.com/Search/ProductDetail.aspx?R=RC1206FR-07470RL) | $0.009
+R1 | Yageo RC1206FR-071KL 1k Ohm | ![Mouser](http://www.mouser.com/Search/ProductDetail.aspx?R=RC1206FR-071KL) | $0.009
+Pins/Sockets | Pins and Sockets, 40 pin | ![Amazon](https://www.amazon.com/gp/product/B074HVBTZ4) | $0.26
+Shirt pins | Mudder Butterfly Clutch Tie Tacks | ![Amazon](https://www.amazon.com/gp/product/B06VXNN1HK) | $0.0699
+Bags | Metallic foil clear/black | ![Amazon](https://www.amazon.com/gp/product/B01DMG9BQW) | $0.1849
+Cards | Instruction Cards | Vistaprint | $0.01998
+ | Total cost each | | $0.783
+
+
 Hope you enjoy!
 
 @hamster
