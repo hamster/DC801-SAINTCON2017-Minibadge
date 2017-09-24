@@ -48,11 +48,11 @@ D1,2 | Chanzon AA0018x100 3mm LED | [Amazon](https://www.amazon.com/gp/product/B
 R1 | Yageo RC1206JR-070RL 0 Ohm | [Mouser](http://www.mouser.com/Search/ProductDetail.aspx?R=RC1206JR-070RL) | $0.006 | 1 | $0.006
 R1 | Yageo RC1206FR-07470RL 470 Ohm | [Mouser](http://www.mouser.com/Search/ProductDetail.aspx?R=RC1206FR-07470RL) | $0.009 | 1 | $0.009
 R1 | Yageo RC1206FR-071KL 1k Ohm | [Mouser](http://www.mouser.com/Search/ProductDetail.aspx?R=RC1206FR-071KL) | $0.009 | 1 | $0.009
-Pins/Sockets | Pins and Sockets, 40 pin | [Amazon](https://www.amazon.com/gp/product/B074HVBTZ4) | $0.26 | 1/4 | $0.065
+Pins/Sockets | Pins and Sockets, 40 pin | [Amazon](https://www.amazon.com/gp/product/B074HVBTZ4) | $0.26 | 1/2 | $0.13
 Shirt pins | Mudder Butterfly Clutch Tie Tacks | [Amazon](https://www.amazon.com/gp/product/B06VXNN1HK) | $0.0699 | 1 | $0.0699
 Bags | Metallic foil clear/black | [Amazon](https://www.amazon.com/gp/product/B01DMG9BQW) | $0.1849 | 1 | $0.1849
 Cards | Instruction Cards (500 qty) | Vistaprint | $0.01998 | 1 | $0.01998
-Total | Per each board kit | | | | $0.848
+Total | Per each board kit | | | | $0.913
 
 
 Hope you enjoy!
