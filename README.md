@@ -2,7 +2,7 @@
 Minibadge design for the 2017 SAINTCON badge with a DC801 theme
 
 Powered
-![Powered](/Badge/Images/Badge Powered.jpg)
+![Powered](/Badge/Images/Badge_Powered.jpg)
 
 Front
 ![Front](/Badge/Renders/DC801-Minibadge-3D.png)
@@ -13,7 +13,7 @@ Back
 
 ![Back](/Badge/Renders/DC801-Minibadge-back-3D.png)
 
-![Back](/Badge/Images/Badge Back.jpg)
+![Back](/Badge/Images/Badge_Back.jpg)
 
 The Minibadge includes a spiffy DC801 design and two automatic slow-cycling RGB LEDs
 
