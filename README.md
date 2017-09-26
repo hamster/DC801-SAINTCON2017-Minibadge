@@ -63,6 +63,13 @@ Cards | Instruction Cards (500 qty) | Vistaprint | $0.01998 | 1 | $0.01998
 Total | Per each board kit | | | | $0.913
 
 
+# Battery Holder
+
+Included in the [Shirt Pin Battery](/Shirt%20Pin%20Battery) folder is a board that can hold a battery to power the badge and attach to your shirt, if you want blinkies in a tiny package.
+
+![Shirt Pin Battery](/Shirt%20Pin%20Battery/Renders/Shirt%20Pin%20Battery%20Holder%20Top.png)
+
+
 Hope you enjoy!
 
 @hamster
