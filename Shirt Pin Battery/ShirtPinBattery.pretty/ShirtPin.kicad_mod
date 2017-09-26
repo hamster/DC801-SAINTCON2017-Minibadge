@@ -1,0 +1,11 @@
+(module ShirtPin (layer F.Cu) (tedit 59C89F60)
+  (descr "module 1 pin (ou trou mecanique de percage)")
+  (tags DEV)
+  (fp_text reference REF** (at 0 -3.50012) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value 1Pin (at 0.24892 3.74904) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 smd circle (at 0 0) (size 5 5) (layers F.Cu F.Mask))
+)
